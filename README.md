@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Sergei. Currently learning to code @MakersAcademy.
+### Hi there 👋]
+#### I'm Sergei. Currently learning to code @MakersAcademy.
 
 <!--
 **s-palmer/s-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
