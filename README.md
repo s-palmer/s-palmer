@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div>
 <p align="center">
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-palmer&layout=compact&theme=radical" />
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
     <img align="center" height="160px"  src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=radical&&hide=contribs&count_private=true" />
     </p?
  </div>
+
+-->
