@@ -2,14 +2,19 @@
 
 ## I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
 
+### You can get in touch via:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/)
+
+
+
 ### I spent the last 7 years working in digital marketing, spending the last 3.5 years working remotely from Asia. Over the past 2 years, I've enjoyed being a freelance Marketing Consultant, working both with agencies and my own clients.
 
 ### In August 2021, I moved back to the UK and am currently learning to code @ [MakersAcademy](https://makers.tech/).
 
 #### I've worked with:
 
-| ![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) | ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+| ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | !![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | 
 
 <!--
 **s-palmer/s-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
