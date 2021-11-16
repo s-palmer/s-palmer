@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/)
 
 
-### I spent the last 7 years working in digital marketing, spending the last 3.5 years working remotely from Asia. Over the past 2 years, I've enjoyed being a freelance Marketing Consultant, working both with agencies and my own clients.
+### For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation. The last 3.5 years were spent working as a freelance Marketing Consultant, running my own small business while mastering remote collaboration and juggling timezones, whilst living in Vietnam and Taiwan.
 
 ### In August 2021, I moved back to the UK and am currently learning to code @ [MakersAcademy](https://makers.tech/).
 
