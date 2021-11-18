@@ -19,6 +19,10 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
+<p align="center">
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=tokyonight" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-palmer&layout=compact&theme=tokyonight"/>
+</p>
 
 <!--
 **s-palmer/s-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,15 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div>
-<p align="center">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-palmer&layout=compact&theme=radical" />
-  </p>
-</div>
-<div>
-  <p align="center">
-    <img align="center" height="160px"  src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=radical&&hide=contribs&count_private=true" />
-    </p?
- </div>
+
 
 -->
