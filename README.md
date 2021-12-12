@@ -1,21 +1,20 @@
 ## Hi there, I'm Sergei.
 
-## I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
+### I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
 
-### You can get in touch via:
+### Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/)
 
+For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation (SEO). I've spent the last 3.5 years working as a freelance consultant, running my own small business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration and juggle timezones.
 
-### For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation (SEO). I've spent the last 3.5 years working as a freelance consultant, running my own small business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration and juggle timezones.
+In August 2021, I moved back to the UK and recently graduated from the [MakersAcademy](https://makers.tech/) Intensive 16 Software Engineering Bootcamp as part of their Septmber 2021 cohort.
 
-### In August 2021, I moved back to the UK and recently graduated from the [MakersAcademy](https://makers.tech/) Intensive 16 Software Engineering Bootcamp as part of their Septmber 2021 cohort.
-
-#### I've worked with:
+### I've worked with:
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-#### I'm learning:
+### I'm learning:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 <p align="center">
