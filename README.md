@@ -4,9 +4,7 @@
 
 ### Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/)
-
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/s-palmer)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/s-palmer)
 
 
 For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation (SEO). I've spent the last 3.5 years working as a freelance consultant, running my own small business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration and juggle timezones.
