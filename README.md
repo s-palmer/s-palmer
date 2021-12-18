@@ -11,6 +11,13 @@ For the past 7 years, I've worked in digital marketing, running paid advertising
 
 In August 2021, I moved back to the UK and recently graduated from the [MakersAcademy](https://makers.tech/) Intensive 16 Software Engineering Bootcamp as part of their Septmber 2021 cohort.
 
+## Key Project
+* Bar.io:  [Frontend](https://github.com/s-palmer/bar.io-frontend), [Backend](https://github.com/s-palmer/bar.io-backend) - React, Material UI, ExpressJS, NodeJS Heroku, Google APIs, Jest
+
+### Other projects
+
+* [Airbnb Clone](https://github.com/s-palmer/makers_bnb) - Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
+
 ### I've worked with:
 
 #### Languages:
