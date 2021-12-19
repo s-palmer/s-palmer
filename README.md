@@ -17,7 +17,7 @@ Makers Academy is a 16-week full-time software development course focusing on:
 - Additional experience includes version control with git using Github, continuous integration and delivery with Circle CI & Heroku, writing user stories, domain modelling and building MVC web apps
 
 ## Key Project
-* Bar.io:  [Frontend](https://github.com/s-palmer/bar.io-frontend), [Backend](https://github.com/s-palmer/bar.io-backend) - React, Material UI, ExpressJS, NodeJS Heroku, Google APIs, Jest
+* Bar.io:  [Frontend](https://github.com/s-palmer/bar.io-frontend), [Backend](https://github.com/s-palmer/bar.io-backend) - React, Material UI, ExpressJS, NodeJS, Jest, Heroku, Google APIs
 
 ### Other projects
 
