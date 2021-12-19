@@ -9,7 +9,7 @@
 
 For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation (SEO). I've spent the last 3.5 years working as a freelance consultant, running my own small business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration and juggle timezones.
 
-In August 2021, I moved back to the UK and recently graduated from the [MakersAcademy](https://makers.tech/) Intensive 16 Software Engineering Bootcamp as part of their Septmber 2021 cohort.
+In August 2021, I moved back to the UK and recently graduated from the [Makers Academy](https://makers.tech/) Intensive 16 Software Engineering Bootcamp as part of their Septmber 2021 cohort.
 
 ## Key Project
 * Bar.io:  [Frontend](https://github.com/s-palmer/bar.io-frontend), [Backend](https://github.com/s-palmer/bar.io-backend) - React, Material UI, ExpressJS, NodeJS Heroku, Google APIs, Jest
