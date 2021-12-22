@@ -21,6 +21,7 @@ Makers Academy is a 16-week full-time software development course focusing on:
 
 ### Other projects
 
+* [Facebook Clone](https://github.com/s-palmer/acebook) - Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
 * [Airbnb Clone](https://github.com/s-palmer/makers_bnb) - Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
 
 ### I've worked with:
