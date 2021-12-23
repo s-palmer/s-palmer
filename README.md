@@ -21,7 +21,7 @@ Makers Academy is a 16-week full-time software development course focusing on:
 ### Key products
 
 * Bar.io:  [Frontend](https://github.com/s-palmer/bar.io-frontend), [Backend](https://github.com/s-palmer/bar.io-backend) - React, Material UI, ExpressJS, NodeJS, Jest, Heroku, Google APIs
-* Facebook Graph API Interest searcher [Frontend](https://github.com/s-palmer/facebook-interest-api), [Backend](https://github.com/s-palmer/fb-interest-api-backend) - NextJS, Chakra UI, ExpressJS, NodeJS, Heroku, Vercel, Facebook Graph API
+* Facebook Graph API Interest targeting explorer: [Frontend](https://github.com/s-palmer/facebook-interest-api), [Backend](https://github.com/s-palmer/fb-interest-api-backend) - NextJS, Chakra UI, ExpressJS, NodeJS, Heroku, Vercel, Facebook Graph API
 
 ### Other projects
 
