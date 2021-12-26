@@ -14,7 +14,7 @@ In August 2021, I moved back to the UK and in December 2021 graduated from [Make
 Makers Academy is a 16-week full-time software development course focusing on:
 
 - Object-Oriented Design, Test Driven Development, Agile Methodologies & Pair Programming
-- Additional experience includes version control with git using Github, continuous integration and delivery with Circle CI & Heroku, writing user stories, domain modelling and building MVC web apps
+- Additional experience includes version control using Github, CI/CD with CircleCI & Heroku, writing user stories, domain modelling and building MVC web apps
 
 ## Projects
 
