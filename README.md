@@ -18,15 +18,37 @@ Makers Academy is a 16-week full-time software development course focusing on:
 
 ## Projects
 
-### Key products
+### Key projects
 
-* Bar.io:  [Frontend](https://github.com/s-palmer/bar.io-frontend), [Backend](https://github.com/s-palmer/bar.io-backend) - React, Material UI, ExpressJS, NodeJS, Jest, Heroku, Google APIs
-* Facebook Graph API Interest targeting explorer: [Frontend](https://github.com/s-palmer/facebook-interest-api), [Backend](https://github.com/s-palmer/fb-interest-api-backend) - NextJS, Chakra UI, ExpressJS, NodeJS, Heroku, Vercel, Facebook Graph API
+#### Bar.io
+* A geolocation-based barfinding app
+* React, Material UI, ExpressJS, NodeJS, Jest, Heroku, Google APIs
+
+<a href="https://github.com/s-palmer/bar.io-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=bar.io-frontend" />
+</a>
+<a href="https://github.com/s-palmer/bar.io-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=bar.io-backend" />
+</a>
+
+
+#### Facebook Advertising Interest Explorer
+* A tool to explore audiences that can be used for Facebook paid advertising
+* NextJS, Chakra UI, ExpressJS, NodeJS, Heroku, Vercel, Facebook Graph API
+
+<a href="https://github.com/s-palmer/facebook-interest-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=facebook-interest-api" />
+</a>
+<a href="https://github.com/s-palmer/fb-interest-api-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=fb-interest-api-backend" />
+</a>
 
 ### Other projects
 
-* [Facebook Clone](https://github.com/s-palmer/acebook) - Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
-* [Airbnb Clone](https://github.com/s-palmer/makers_bnb) - Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
+* [Acebook](https://github.com/s-palmer/acebook) - A social networking site implementing all CRUD operations.
+  * Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
+* [Makers BNB](https://github.com/s-palmer/makers_bnb) - An accommodation rental site.
+  * Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
 
 <a href="https://github.com/s-palmer/acebook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=acebook" />
