@@ -25,8 +25,15 @@ Makers Academy is a 16-week full-time software development course focusing on:
 
 ### Other projects
 
-* [Facebook Clone](https://github.com/s-palmer/acebook) - Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
+* [Facebook Clone]() - Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
 * [Airbnb Clone](https://github.com/s-palmer/makers_bnb) - Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
+
+<a href="https://github.com/s-palmer/acebook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=acebook" />
+</a>
+<a href="https://github.com/s-palmer/makers_bnb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=makers_bnb" />
+</a>
 
 ### I've worked with:
 
@@ -48,6 +55,8 @@ Makers Academy is a 16-week full-time software development course focusing on:
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=tokyonight" />  
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-palmer&layout=compact&theme=tokyonight"/>
 </p>
+
+
 
 <!--
 **s-palmer/s-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
