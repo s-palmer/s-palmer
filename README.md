@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/s-palmer)
 
-
 For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation (SEO). I've spent the last 3.5 years working as a freelance consultant, running my own small business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration and juggle timezones.
 
 In August 2021, I moved back to the UK and in December 2021 graduated from [Makers Academy](https://makers.tech/).
@@ -15,6 +14,8 @@ Makers Academy is a 16-week full-time software development course focusing on:
 
 - Object-Oriented Design, Test Driven Development, Agile Methodologies & Pair Programming
 - Additional experience includes version control using Github, CI/CD with CircleCI & Heroku, writing user stories, domain modelling and building MVC web apps
+
+---
 
 ## Projects
 
@@ -30,7 +31,6 @@ Makers Academy is a 16-week full-time software development course focusing on:
 <a href="https://github.com/s-palmer/bar.io-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=bar.io-backend" />
 </a>
-
 
 #### Facebook Advertising Interest Explorer
 * A tool to explore audiences that can be used for Facebook paid advertising
@@ -57,6 +57,8 @@ Makers Academy is a 16-week full-time software development course focusing on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=makers_bnb" />
 </a>
 
+---
+
 ### I've worked with:
 
 #### Languages:
@@ -73,6 +75,7 @@ Makers Academy is a 16-week full-time software development course focusing on:
 ### Interested In:
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
 
 <p align="center">
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=tokyonight" />  
