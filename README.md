@@ -2,9 +2,11 @@
 
 ### I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
 
-### Find me at:
+### Contact me at:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/s-palmer)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
+
+<!-- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/s-palmer) -->
 
 For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
 
