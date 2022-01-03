@@ -58,12 +58,12 @@ Whilst at Maker's, I learned:
 * [Makers BNB](https://github.com/s-palmer/makers_bnb) - An accommodation rental site.
   * Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
 
-<a href="https://github.com/s-palmer/acebook">
+<!-- <a href="https://github.com/s-palmer/acebook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=acebook" />
 </a>
 <a href="https://github.com/s-palmer/makers_bnb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=makers_bnb" />
-</a>
+</a> -->
 
 ---
 
