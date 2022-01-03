@@ -38,8 +38,8 @@ Whilst at Maker's, I learned:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=bar.io-backend" />
 </a>
 
-#### Facebook Advertising Interest Explorer
-* A tool to explore audiences that can be used for Facebook paid advertising
+#### Facebook Interest Explorer
+* A tool to explore audiences that can be used for targeting Facebook ads
 
 <a href="https://github.com/s-palmer/facebook-interest-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=facebook-interest-api" />
