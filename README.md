@@ -30,7 +30,6 @@ Whilst at Maker's, I learned:
 
 #### Bar.io
 * A geolocation-based barfinding app
-* React, Material UI, ExpressJS, NodeJS, Jest, Heroku, Google APIs
 
 <a href="https://github.com/s-palmer/bar.io-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=bar.io-frontend" />
@@ -41,7 +40,6 @@ Whilst at Maker's, I learned:
 
 #### Facebook Advertising Interest Explorer
 * A tool to explore audiences that can be used for Facebook paid advertising
-* NextJS, Chakra UI, ExpressJS, NodeJS, Heroku, Vercel, Facebook Graph API
 
 <a href="https://github.com/s-palmer/facebook-interest-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=facebook-interest-api" />
@@ -56,13 +54,6 @@ Whilst at Maker's, I learned:
   * Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
 * [Makers BNB](https://github.com/s-palmer/makers_bnb) - An accommodation rental site.
   * Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
-
-<!-- <a href="https://github.com/s-palmer/acebook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=acebook" />
-</a>
-<a href="https://github.com/s-palmer/makers_bnb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-palmer&repo=makers_bnb" />
-</a> -->
 
 ---
 
