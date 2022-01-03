@@ -6,14 +6,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/s-palmer)
 
-For the past 7 years, I've worked in digital marketing, running paid advertising campaigns for both startups and established brands as well getting to grips with the ins and outs of Search Engine Optimisation (SEO). I've spent the last 3.5 years working as a freelance consultant, running my own small business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration and juggle timezones.
+For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
 
 In August 2021, I moved back to the UK and in December 2021 graduated from [Makers Academy](https://makers.tech/).
 
-Makers Academy is a 16-week full-time software development course focusing on:
+_Maker's Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with JavaScript & Ruby_
 
-- Object-Oriented Design, Test Driven Development, Agile Methodologies & Pair Programming
-- Additional experience includes version control using Github, CI/CD with CircleCI & Heroku, writing user stories, domain modelling and building MVC web apps
+Whilst at Maker's, I learned:
+- The principles of object-oriented design & test-driven development
+- How to write clean, reliable and maintainable code
+- How to pair-program in the driver-navigator style to problem solve effectively
+- Collaboration on GitHub projects using continuous integration & automated deployment
+- How to debug effectively
+- Skills to help me be confident in learning new technologies
+- Working in an agile development team using XP values
 
 ---
 
