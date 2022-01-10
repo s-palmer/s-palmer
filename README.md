@@ -82,6 +82,14 @@ Whilst at Makers, I learned:
 
 ---
 
+## When I'm not coding (Interests)
+
+- 📚 Reading:
+  - Currently reading: [Last Boat Out Of Shanghai](https://www.goodreads.com/en/book/show/40061595-last-boat-out-of-shanghai)
+- 🌱 Watching talks:
+  - Recently enjoyed:
+    - [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) 
+    - [Futuristic Web Development](https://www.youtube.com/watch?v=qSfdtmcZ4d0) 
 
 
 <!--
