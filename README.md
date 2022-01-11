@@ -1,11 +1,13 @@
-## Hi there, I'm Sergei.
+# Hi there, I'm Sergei.
 
 ### I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
+
+I am a proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer. I'm a great problem solver and experienced at communicating ideas to stakeholders and end users. I'm a fast learner and also passionate about developing existing skills and learning new ones. I'm currently enjoying learning React and NextJS, as well as testing frameworks like Enzyme.
 
 ### Contact me at:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch) 
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
 
 For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
 
