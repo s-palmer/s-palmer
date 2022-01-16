@@ -2,7 +2,11 @@
 
 ### I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
 
-I am a proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer. I'm a great problem solver and experienced at communicating ideas to stakeholders and end users. I'm a fast learner and also passionate about developing existing skills and learning new ones. I'm currently enjoying learning React and NextJS, as well as testing frameworks like Enzyme.
+Proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer.
+
+I'm a strong problem solver and experienced at communicating ideas to stakeholders and end users. Passionate about developing my existing skills and picking up new ones, I have been enjoying working with React and NextJS, as well as learning testing frameworks like Enzyme.
+
+I left a comfortable career in marketing to pursue a new challenge as a developer and join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis.
 
 ### Contact me at:
 
