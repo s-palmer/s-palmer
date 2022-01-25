@@ -1,19 +1,19 @@
 # Hi there, I'm Sergei.
 
-### I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
+<!-- ### I'm looking for Junior Developer/Software Engineering Roles in London (or remote).
 
 Proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer.
 
 I'm a strong problem solver and experienced at communicating ideas to stakeholders and end users. Passionate about developing my existing skills and picking up new ones, I have been enjoying working with React and NextJS, as well as learning testing frameworks like Enzyme.
 
-I left a comfortable career in marketing to pursue a new challenge as a developer and join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis.
+I left a comfortable career in marketing to pursue a new challenge as a developer and join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis. -->
 
 ### Contact me at:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
 
-For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
+<!-- For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
 
 In August 2021, I moved back to the UK and in December 2021 graduated from [Makers Academy](https://makers.tech/). Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with JavaScript & Ruby.
 
@@ -59,11 +59,11 @@ Whilst at Makers, I learned:
 * [Acebook](https://github.com/s-palmer/acebook) - A social networking site implementing all CRUD operations.
   * Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap
 * [Makers BNB](https://github.com/s-palmer/makers_bnb) - An accommodation rental site.
-  * Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap
+  * Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap -->
 
 ---
 
-### I've worked with:
+### I work in:
 
 #### Languages:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
