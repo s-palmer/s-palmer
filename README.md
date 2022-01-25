@@ -8,7 +8,7 @@ I'm a strong problem solver and experienced at communicating ideas to stakeholde
 
 I left a comfortable career in marketing to pursue a new challenge as a developer and join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis. -->
 
-### Contact me at:
+### Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
