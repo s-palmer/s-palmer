@@ -92,7 +92,9 @@ Whilst at Makers, I learned:
 ## When I'm not coding (Interests)
 
 - 📚 Reading books:
-  - Currently reading: [Last Boat Out Of Shanghai](https://www.goodreads.com/en/book/show/40061595-last-boat-out-of-shanghai)
+  - Currently reading: [A Pail of Oysters](https://www.goodreads.com/book/show/29444882-a-pail-of-oysters)
+  - Currently reading: [War Doctor](https://www.goodreads.com/book/show/41793575-war-doctor)
+  - Recently finished: [Last Boat Out Of Shanghai](https://www.goodreads.com/en/book/show/40061595-last-boat-out-of-shanghai)
 - 💬 Reading blogs:
   - [Moxie (creator of Signal, on Web3)](https://moxie.org/2022/01/07/web3-first-impressions.html)
 - 🌱 Watching talks:
