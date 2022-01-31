@@ -1,6 +1,6 @@
-# Hi there, I'm Sergei.
+## Hi there, I'm Sergei.
 
-### Junior Software Engineer based in London
+#### Integration Engineer @ [Limio.com](https://www.limio.com/)
 
 <!-- 
 
@@ -10,7 +10,7 @@ I'm a strong problem solver and experienced at communicating ideas to stakeholde
 
 I left a comfortable career in marketing to pursue a new challenge as a developer and join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis. -->
 
-### Get in touch:
+#### Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
@@ -63,7 +63,7 @@ Whilst at Makers, I learned:
 * [Makers BNB](https://github.com/s-palmer/makers_bnb) - An accommodation rental site.
   * Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap -->
 
----
+<!--
 
 ### My stack
 
@@ -91,7 +91,7 @@ Whilst at Makers, I learned:
 
 ---
 
-## When I'm not coding (Interests)
+<!-- ## When I'm not coding (Interests)
 
 - 📚 Reading books:
   - Currently reading: [A Pail of Oysters](https://www.goodreads.com/book/show/29444882-a-pail-of-oysters)
@@ -102,8 +102,7 @@ Whilst at Makers, I learned:
 - 🌱 Watching talks:
   - Recently enjoyed:
     - [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) 
-    - [Futuristic Web Development](https://www.youtube.com/watch?v=qSfdtmcZ4d0) 
-
+    - [Futuristic Web Development](https://www.youtube.com/watch?v=qSfdtmcZ4d0)  -->
 
 <!--
 **s-palmer/s-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
