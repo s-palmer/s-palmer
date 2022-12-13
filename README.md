@@ -13,8 +13,8 @@ I left a comfortable career in marketing to pursue a new challenge as a develope
 #### Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
-
+<!-- [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
+ -->
 <!-- For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
 
 In August 2021, I moved back to the UK and in December 2021 graduated from [Makers Academy](https://makers.tech/). Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with JavaScript & Ruby.
