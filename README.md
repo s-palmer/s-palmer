@@ -85,7 +85,7 @@ Whilst at Makers, I learned:
 ---
 
 <p align="center">
-  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=tokyonight" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=tokyonight&count_private=true" />  
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-palmer&layout=compact&theme=tokyonight"/>
 </p>
 
