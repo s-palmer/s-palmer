@@ -2,6 +2,16 @@
 
 #### Integration Engineer @ [Limio.com](https://www.limio.com/)
 
+Currently learning:
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
+#### Astro
+<!-- ![Astro](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ -->
 <!-- 
 
 Proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer.
