@@ -21,9 +21,14 @@ I'm a strong problem solver and experienced at communicating ideas to stakeholde
 
 I left a comfortable career in marketing to pursue a new challenge as a developer and join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis. -->
 
+---
+
 #### Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-palmer/) 
+
+---
+
 <!-- [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sergeipalmer@protonmail.ch)
  -->
 <!-- For the past 7 years, I've worked in digital marketing, running paid advertising campaigns, analysing data and carrying out search engine optimisation (SEO) projects for both fast-growing startups and well-established brands. I've spent the last few years running my own small consulting business whilst living in Vietnam & Taiwan, requiring me to master remote collaboration, communication and project management while juggling timezones.
@@ -93,14 +98,14 @@ Whilst at Makers, I learned:
 <!-- ### Interested In:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
----
 
+<!--
 <p align="center">
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=s-palmer&show_icons=true&theme=tokyonight&count_private=true" />  
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-palmer&layout=compact&theme=tokyonight"/>
 </p>
+ -->
 
----
 
 <!-- ## When I'm not coding (Interests)
 
