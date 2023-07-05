@@ -1,6 +1,6 @@
 ## Hi there, I'm Sergei.
 
-#### Integration Engineer @ [Limio.com](https://www.limio.com/)
+#### Full Stack Developer @[Limio.com](https://www.limio.com/)
 <!-- 
 Currently learning:
 
