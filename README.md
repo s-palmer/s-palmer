@@ -1,6 +1,6 @@
 ## Hi there, I'm Sergei.
 
-#### Full Stack Developer @[Limio.com](https://www.limio.com/)
+#### Software Engineer @ [Limio.com](https://www.limio.com/)
 <!-- 
 Currently learning:
 
